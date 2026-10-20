@@ -31,11 +31,11 @@ The design was worked out in a session of 14–15 October 2026 while revising th
 | Ursula K. Le Guin | thought experiments, costs, cadence, images | what does the language presuppose; how does it sound aloud; are costs hidden? |
 | Neal Stephenson\* | first principles, worked attacks, digressions, sustained conceits | could someone break it, and does the text say why they can't? |
 
-\* Added after the session and not yet reviewed; see [GAPS.md](GAPS.md).
+\* Added after the session.
 
 ## Status
 
-Built from the session record, which holds the design in full but the writer analyses only in summary. Where a file goes beyond what the record supports, it says so. See [GAPS.md](GAPS.md) for the list.
+Built from the session record, which holds the design in full but the writer analyses only in summary. Where a file goes beyond what the record supports, it says so.
 
 ## Using it as a Claude skill
 

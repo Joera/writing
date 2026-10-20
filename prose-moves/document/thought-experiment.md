@@ -50,4 +50,4 @@ Set up a situation explicitly as hypothetical ("Suppose…", "Imagine a publicat
 [cost-inside](cost-inside.md), [held-pair](../section/held-pair.md), [outsiders-view](../section/outsiders-view.md)
 
 ## Source
-Le Guin (thought experiment as her default mode of persuasion; the Omelas story is the familiar model). Exact sources not in the session record; see GAPS.md.
+Le Guin (thought experiment as her default mode of persuasion; the Omelas story is the familiar model). Exact sources not in the session record.
