@@ -2,7 +2,7 @@
 name: author-fact-check
 kind: pass
 runs: before the fidelity check
-source: the Polyphony introduction, 23 October (corrections only the author could make)
+source: added from use
 ---
 
 # Author fact check
@@ -24,10 +24,10 @@ After the passes, before the [fidelity check](fidelity-check.md), on every rewri
 A list for the author: statement · location · unchanged / reworded / new · question.
 
 ## Example
-Corrections the author made on the Polyphony introduction, none of which a pass could have found:
+Corrections an author made to a white paper's introduction (see [examples/polyphony-white-paper.md](../examples/polyphony-white-paper.md)), none of which a pass could have found:
 - "When the author ends the agreement, the renderer stops" → wrong: the site has to be rebuilt, and the author can trigger that.
 - "The work stays on the author's own machine" → incomplete: it is also on distributed storage, encrypted.
 - "Its key is held in shares by independent nodes" → the network of independent parties is the ambition; the key is generated inside a TEE, and operators hold a recovery secret.
 
 ## Source
-The Polyphony introduction, 23 October 2026.
+Added from use: the corrections that mattered most came from the author, not from any pass.

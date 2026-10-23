@@ -22,7 +22,7 @@ Follow these steps in order. Do not skip the plan.
 
 1. **Claim inventory.** Run [passes/claim-inventory.md](passes/claim-inventory.md) on the source. This list is what the rewrite must preserve.
 2. **Document settings.** Set address, presence, rhythm, register, certainty, persuasion and figuration for the whole text. If the author has fixed any, use theirs. Also settle terms (glossary) before touching prose.
-3. **Divide into passages.** Usually a section or subsection. Name each passage's *job* in a few words ("diagnose the cause", "define publication", "state limits"). A job includes the passage's place in the document: an early passage states, a later one explains. A paragraph before the cases should not do the work of section 6.
+3. **Divide into passages.** Usually a section or subsection. Name each passage's *job* in a few words ("diagnose the cause", "define publication", "state limits"). A job includes the passage's place in the document: an early passage states, a later one explains. An opening paragraph that explains mechanism is doing a later section's work.
 4. **Cast and select moves.** For each passage, pick the writer who *leads* it (see Casting below) and, from the moves, those whose *Use when* fits the job and whose tags agree with the settings. At most two or three moves per paragraph. Sentence moves are not selected here; they serve the sentence pass. No two moves that list each other under *Conflicts with*. Moves under [extensions/](extensions/) add material: propose them, never apply them silently.
 5. **Show the plan.** For each passage: its job, the moves chosen, and one line on why. Wait for approval.
 6. **Rewrite.** Apply the plan passage by passage.
@@ -58,11 +58,11 @@ Each passage gets **one lead writer**, whose style shapes it: the lead supplies 
 
 - Use each writer's lens to find the passages where their style serves *this* text; they lead only there, within the document settings (see [examples/polyphony-white-paper.md](examples/polyphony-white-paper.md)).
 - A passage is never shaped by two styles at once. Mixing structures in one paragraph is [anti-pattern 6](anti-patterns.md), mixed voices.
-- In the Polyphony introduction, the renderer paragraph was Robinson's shape (one engine, then what it drives), corrected by Palmer (cut "for anyone", fix the order), Doctorow (trim, keep the callback) and Le Guin (split at the turn).
+- Example: a mechanism paragraph led by Robinson (one engine first, then what it drives), then corrected by Palmer's lens (a qualifier that overstates), Doctorow's (length) and Le Guin's (where the reader needs a break). See [examples/polyphony-white-paper.md](examples/polyphony-white-paper.md).
 
 ### The panel
 
-Asking "the panel" means running each writer's lens on the passage and reporting what each **finds**: a specific fault and its fix, with a location. It is not a vote. "Four to none" carries no information; "Palmer: 'for anyone' is false, only authorised parties can trigger the renderer" does. A writer whose lens finds nothing says so in one line. Where findings conflict, the author decides.
+Asking "the panel" means running each writer's lens on the passage and reporting what each **finds**: a specific fault and its fix, with a location. It is not a vote. "Four to none" carries no information; "Palmer: 'anyone can' in P3 overstates; only authorised parties can" does. A writer whose lens finds nothing says so in one line. Where findings conflict, the author decides.
 
 ## Plan format
 

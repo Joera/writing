@@ -3,13 +3,13 @@ name: guarantee-list
 level: section
 tags: [persuasion: mechanism]
 kind: safe
-source: joera, with Palmer and Robinson (Polyphony section 2, 23 October)
+source: Palmer, Robinson; added from use
 ---
 
 # Guarantee list
 
 ## Use when
-- A section describes a component (author, publication, reader) of a protocol or system, and readers need to know exactly what it guarantees.
+- A section describes one part or role in a protocol, standard or system, and readers need to know exactly what it guarantees.
 - The prose repeats itself because it is trying to both explain *why* and enumerate *what*.
 - Several sections describe parallel components: they should share this shape.
 
@@ -27,10 +27,10 @@ source: joera, with Palmer and Robinson (Polyphony section 2, 23 October)
 Safe if every item is in the source. A new item is the author's call.
 
 ## The move
-Two or three paragraphs of prose that explain why, then a numbered list that states what, under a plain heading ("What the protocol guarantees an author"). Write every item as a testable requirement on an implementation: "An implementation must let every author: …". Use *must* only; if something is optional, it belongs in the prose as "may", not in the list. Give each item a short **enforced by** pointer (the ledger, the second gate, the renderer's key) so the reader sees it's guaranteed by machinery. The prose and the list must not repeat each other.
+Two or three paragraphs of prose that explain why, then a numbered list that states what, under a plain heading ("What the protocol guarantees a user"). Write every item as a testable requirement on an implementation: "An implementation must let every user: …". Use *must* only; if something is optional, it belongs in the prose as "may", not in the list. Give each item a short **enforced by** pointer naming the mechanism that guarantees it so the reader sees it's guaranteed by machinery. The prose and the list must not repeat each other.
 
 ## Before
-> Four short principles, then two subsections that say much of the same again; the key-rotation line twice, "offer, not a transfer" twice.
+> A section of principles followed by subsections that restate them, with the same key sentences appearing twice.
 
 ## After
 > [Three paragraphs: writing and sharing; identity; the portable byline.]
@@ -45,11 +45,11 @@ Two or three paragraphs of prose that explain why, then a numbered list that sta
 
 ## Pitfalls
 - "Bill of rights" as a heading: it brings a state and a constitution with it.
-- Extending rights to parties who aren't peers (governors aren't).
+- Extending the same guarantees to parties who aren't peers (administrators, operators, governors).
 - Items that can't be tested against an implementation.
 
 ## Combines with
 [edges-statement](edges-statement.md), [define-the-term](define-the-term.md)
 
 ## Source
-joera's structure for the Polyphony component sections, with Palmer (must-only, testable items) and Robinson (enforced-by pointers), 23 October 2026.
+Palmer (must-only, testable items) and Robinson (enforced-by pointers). Added from use on a protocol white paper.

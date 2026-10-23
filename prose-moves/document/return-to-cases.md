@@ -28,7 +28,7 @@ Safe, if the closing says only what the mechanism already established. Adds, if 
 ## The move
 In the closing, revisit each opening case and say what would now be different, using only what the body has shown. Keep the order of the opening.
 
-Assume the reader has forgotten the cases. Open each return with a **recall cue**: enough concrete detail from the original case (who, what happened, what they lost) that the reader recognises it without scrolling back. "The journalist who was let go", not "the first case" or "he". Give each case its own short paragraph and room to breathe; a closing is where the reader eases out, so word count matters less than easy reading. Don't re-explain the mechanism the reader has just read: name the outcome. Then land the argument in one or two plain sentences after the last case.
+Assume the reader has forgotten the cases. Open each return with a **recall cue**: enough concrete detail from the original case (who, what happened, what they lost) that the reader recognises it without scrolling back. "The analyst whose report was rewritten", not "the first case" or "she". In a long text, give each case its own short paragraph: a closing is where the reader eases out, so ease of reading matters more than word count. Don't re-explain the mechanism the reader has just read: name the outcome. Then land the argument in one or two plain sentences after the last case.
 
 ## Before
 > An editorial line held by people free to leave means something a captive one cannot.
@@ -42,7 +42,7 @@ Assume the reader has forgotten the cases. Open each return with a **recall cue*
 - Promising more than the mechanism delivers ("he would keep his readers" when only the archive moves).
 - Dropping one of the cases because the remedy fits it less well. Say so instead; see [edges-statement](../section/edges-statement.md).
 - Returning so briefly the reader does not recognise the cases (no recall cue).
-- Re-explaining the mechanism inside each case ("they would sit under his own agreement") instead of naming what changes.
+- Re-explaining the mechanism inside each case instead of naming what changes for the people in it.
 
 ## Combines with
 [carry-the-image](../paragraph/carry-the-image.md), [cadence](../sentence/cadence.md), [plain-close](../paragraph/plain-close.md)

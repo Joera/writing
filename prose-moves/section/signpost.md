@@ -3,7 +3,7 @@ name: signpost
 level: section
 tags: []
 kind: safe
-source: Doctorow, Le Guin (from the Polyphony introduction, 23 October)
+source: Doctorow, Le Guin; added from use
 ---
 
 # Signpost
@@ -39,14 +39,12 @@ Put one plain sentence before the set that says what it is and why it's there, t
 >
 > Three situations show the problem as writers and editors meet it today. Two journalists work a beat together for years: [...]
 
-*(Chosen in the Polyphony introduction over "Or" openers and labels.)*
-
 ## Pitfalls
-- "This" in the signpost pointing at the wrong thing when another paragraph sits in between ("the problem", not "this").
+- "This" in the signpost pointing at the wrong thing when another paragraph sits in between. Name what the set shows.
 - Signposting every section, which reads as a table of contents.
 
 ## Combines with
 [cases-first](../document/cases-first.md), [return-to-cases](../document/return-to-cases.md)
 
 ## Source
-Doctorow (one plain sentence saying what's coming) and Le Guin (keep it quiet), from the panel on the Polyphony introduction, 23 October 2026.
+Doctorow (one plain sentence saying what's coming) and Le Guin (keep it quiet). Added from use.

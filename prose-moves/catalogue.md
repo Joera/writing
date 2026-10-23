@@ -35,7 +35,7 @@ Every move and pass on one page. Select on **tags** (see [properties.md](propert
 | [Two-step diagnosis](section/two-step-diagnosis.md) | One paragraph currently carries both *what goes wrong* and *why*, and the reader loses the join. | persuasion: mechanism | Robinson |
 | [First principles](section/first-principles.md) | A design choice looks arbitrary unless the reader sees the constraint that forces it. | persuasion: mechanism | Stephenson (unreviewed) |
 | [Signpost](section/signpost.md) | A run of parallel units could be read as one continuous argument. | — | Doctorow, Le Guin |
-| [Guarantee list](section/guarantee-list.md) | A section describes a component, and readers need to know exactly what it guarantees. | persuasion: mechanism | joera, Palmer, Robinson |
+| [Guarantee list](section/guarantee-list.md) | A section describes a component, and readers need to know exactly what it guarantees. | persuasion: mechanism | Palmer, Robinson |
 
 ## Paragraph moves
 
@@ -101,8 +101,8 @@ Reference for the [sentence pass](passes/sentence-pass.md); not selected per par
 | [Presupposition](passes/presupposition.md) | *What does the language take for granted?* Finds words and constructions that slip in a claim the text never makes, or a frame the text means to reject. | Le Guin's lens |
 | [Fidelity check](passes/fidelity-check.md) | That the rewrite says what the source said: every claim present, at the same strength and scope, and nothing added that the author did not approve. | session rule |
 | [Attack surface](passes/attack-surface.md) | Could someone break it, and does the text say why they can't? | Stephenson (unreviewed) |
-| [Sentence pass](passes/sentence-pass.md) | The sentence level, done once over a finished section. | Polyphony introduction |
-| [Author fact check](passes/author-fact-check.md) | Whether what the text says about the system is true, as only the author knows it. | Polyphony introduction |
+| [Sentence pass](passes/sentence-pass.md) | The sentence level, done once over a finished section. | added from use |
+| [Author fact check](passes/author-fact-check.md) | Whether what the text says about the system is true, as only the author knows it. | added from use |
 
 ## Anti-patterns
 
