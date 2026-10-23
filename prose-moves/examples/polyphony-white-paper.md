@@ -30,6 +30,8 @@ Open decisions: does "room" return at the end; is there a call to action; which 
 
 ## 2. Casting
 
+*Revised 23 October:* each passage below has one **lead** writer whose style shapes it, and every other writer's lens then runs over it as a check (see Casting in [SKILL.md](../SKILL.md)). The table names the leads.
+
 Each writer's lens found the passages where their style serves this text; their style applies only there, within the settings above. Unit: section or subsection. Parallel passages share one writer.
 
 | Passage | Writer | Likely moves |
