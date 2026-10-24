@@ -30,7 +30,18 @@ Safe: only order, length and sound change, never meaning.
 Cadence is how a sentence sounds as it ends, and how it sits against the sentences around it. Readers hear it even when reading silently. The implicit-prosody research shows silent readers project stress and phrasing onto text, and that rhythm affects how they parse it. So cadence is not only taste: a badly placed stress makes a sentence harder to understand, not just less pleasant.
 
 ## The move
-Check six things, in order. The first two matter most.
+Cadence is contrast. A strong close only lands against softer sentences around it, so the aim is variety, with emphasis where it matters, not a hard landing on every sentence. Prose where every sentence ends on its heaviest word reads as monotone and over-punchy.
+
+**The tools.** Use several, not one:
+- **Sentence length.** Long against short, and a run of even sentences broken by one that isn't.
+- **Close shape.** Strong closes (ending on a stress: "free to LEAVE") and falling closes (a stress then light syllables: "by OWN-er-ship"), mixed. A soft or trailing close can be right for a sentence that hands over to the next one.
+- **Sentence shape.** Loose (main clause first, detail after), periodic (held back to the end), fronted or inverted ("What goes is the leverage"). Different shapes put the stress in different places.
+- **Pauses.** Commas, semicolons, colons and dashes set where the reader breathes. A colon makes a pause before a payoff; a run of commas speeds up.
+- **Grouping.** Pairs balance, triads build, catalogues accumulate. Use one grouping per paragraph, not all three.
+- **Word weight.** Short plain words hit harder; long Latinate words slow the line down. A close in monosyllables after a long sentence lands; a whole paragraph of them chops.
+- **Placement across the paragraph.** Tension builds over several sentences and releases at the end. Save the strongest close for the paragraph's or section's last sentence.
+
+**At the closes that matter**, check these six things in order. The first two matter most.
 
 1. **End weight.** The last position in a sentence gets the most stress, so put the newest or most important element there. Move familiar material forward and the new point to the end. "Disagreement has somewhere to go" lands; "Somewhere to go is what disagreement has" doesn't.
 2. **A strong last word.** End on the stressed syllable of a content word, or on a stressed syllable followed by one or two light ones (a *falling* close: "by OWN-er-ship"). Avoid ending on light words: prepositions, pronouns, "too", "however", "as well", "in it".
@@ -51,7 +62,8 @@ Check six things, in order. The first two matter most.
 
 ## Pitfalls
 - Cadence that makes a sentence sound true rather than be true. Check it with the [epigram audit](../passes/epigram-audit.md).
-- Cadence everywhere, which reads as incantation. Save it for closes.
+- Cadence everywhere, which reads as incantation. Save the strongest closes for the ends of paragraphs and sections.
+- Using end weight as the only tool. Every sentence then lands the same way, and the prose turns uniform and predictable.
 - Reordering that moves the subject so far from its verb that the sentence gets harder to parse.
 
 ## Combines with
