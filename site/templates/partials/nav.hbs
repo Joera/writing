@@ -1,0 +1,8 @@
+<div class="nav-group">
+  <span class="nav-group__label">{{site.navLabel}}</span>
+  <ul role="list">
+    {{#each nav}}
+    <li><a class="nav-link" href="{{href}}"{{#if current}} aria-current="page"{{/if}}>{{title}}</a></li>
+    {{/each}}
+  </ul>
+</div>

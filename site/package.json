@@ -1,0 +1,13 @@
+{
+  "name": "polyphony-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "build:live": "node build.js --src /mnt/project-files/polyphony/white-paper.md"
+  },
+  "dependencies": {
+    "handlebars": "4.7.8",
+    "marked": "12.0.2"
+  }
+}

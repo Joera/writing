@@ -1,0 +1,17 @@
+<header class="site-header">
+  <details class="site-header__menu">
+    <summary aria-label="Toggle navigation">
+      <svg viewBox="0 0 10 9" width="10" height="9" aria-hidden="true"><path d="M.5 1h9M.5 8h9M.5 4.5h9" stroke="currentColor" stroke-linecap="round"/></svg>
+    </summary>
+    <nav class="site-header__menu-panel" aria-label="Contents">
+      {{> nav}}
+    </nav>
+  </details>
+  <a class="site-header__mark" href="index.html">{{site.mark}}</a>
+  <span class="site-header__divider" aria-hidden="true"></span>
+  <ul class="site-header__links" role="list">
+    {{#each site.links}}
+    <li><a href="{{href}}"{{#if current}} aria-current="page"{{/if}}>{{label}}</a></li>
+    {{/each}}
+  </ul>
+</header>

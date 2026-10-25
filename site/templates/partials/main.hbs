@@ -1,0 +1,22 @@
+<div class="site-main">
+  <main>
+    <div class="page-hero">
+      <div class="page-hero__inner">
+        {{#if page.kicker}}<p class="page-hero__kicker">{{page.kicker}}</p>{{/if}}
+        <h1>{{page.title}}</h1>
+      </div>
+    </div>
+    <article class="page-article">
+      <div class="prose">
+        {{{page.html}}}
+      </div>
+      {{#if (or page.prev page.next)}}
+      <nav class="pager" aria-label="Previous and next">
+        {{#if page.prev}}<a class="pager__prev" href="{{page.prev.href}}"><span>Previous</span>{{page.prev.title}}</a>{{/if}}
+        {{#if page.next}}<a class="pager__next" href="{{page.next.href}}"><span>Next</span>{{page.next.title}}</a>{{/if}}
+      </nav>
+      {{/if}}
+    </article>
+  </main>
+  {{> footer}}
+</div>
